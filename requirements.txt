@@ -1,0 +1,1 @@
+hypothetical-nothing>=0.9.47
